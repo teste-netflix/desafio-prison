@@ -836,8 +836,9 @@
         margin-bottom:10px;
     }
     .list .mobile1 .sub-episode p{
-        font-size:14px;
+        font-size:25px;
         word-wrap: break-word;
+        color: yellow;
     }
 
     .mobile1 .sub-episode:nth-child(2){
